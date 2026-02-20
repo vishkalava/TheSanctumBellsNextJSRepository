@@ -4,8 +4,8 @@ phases:
     runtime-versions:
       nodejs: 25.6.1
     commands:
-      - echo "Installing dependencies"
-      - npm install
+      - echo "Entering Command Section. Installing dependencies"
+      - echo "Installing libatomic"
       - apt install libatomic1
   prebuild:
     - npm install
