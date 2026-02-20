@@ -1,0 +1,2932 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/playfair-display/400.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************/
+/* playfair-display-cyrillic-400-normal */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-cyrillic-400-normal.85a66f03.woff2) format('woff2'), url(/_next/static/media/playfair-display-cyrillic-400-normal.06e5a2b4.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* playfair-display-vietnamese-400-normal */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-vietnamese-400-normal.a512ba9c.woff2) format('woff2'), url(/_next/static/media/playfair-display-vietnamese-400-normal.0ed656f1.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* playfair-display-latin-ext-400-normal */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-latin-ext-400-normal.82d0be82.woff2) format('woff2'), url(/_next/static/media/playfair-display-latin-ext-400-normal.f2e09719.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* playfair-display-latin-400-normal */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-latin-400-normal.9267a954.woff2) format('woff2'), url(/_next/static/media/playfair-display-latin-400-normal.a2b1e3ac.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/playfair-display/400-italic.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************/
+/* playfair-display-cyrillic-400-italic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-cyrillic-400-italic.17a2ab0c.woff2) format('woff2'), url(/_next/static/media/playfair-display-cyrillic-400-italic.0d19360e.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* playfair-display-vietnamese-400-italic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-vietnamese-400-italic.5cde377d.woff2) format('woff2'), url(/_next/static/media/playfair-display-vietnamese-400-italic.aa8cd014.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* playfair-display-latin-ext-400-italic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-latin-ext-400-italic.3ecbc373.woff2) format('woff2'), url(/_next/static/media/playfair-display-latin-ext-400-italic.78b6db08.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* playfair-display-latin-400-italic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/playfair-display-latin-400-italic.e4f8b1c8.woff2) format('woff2'), url(/_next/static/media/playfair-display-latin-400-italic.fd99a291.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/300.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-300-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(/_next/static/media/lato-latin-ext-300-normal.abcc64a9.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-300-normal.4a1f1f49.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-300-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: url(/_next/static/media/lato-latin-300-normal.c5195215.woff2) format('woff2'), url(/_next/static/media/lato-latin-300-normal.2010ada3.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/400.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-400-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/lato-latin-ext-400-normal.6ebed106.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-400-normal.1533dda9.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-400-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/lato-latin-400-normal.b7ffde23.woff2) format('woff2'), url(/_next/static/media/lato-latin-400-normal.c97328b9.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/700.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-700-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(/_next/static/media/lato-latin-ext-700-normal.8697d1d5.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-700-normal.1586d9d8.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-700-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(/_next/static/media/lato-latin-700-normal.d5eb20bc.woff2) format('woff2'), url(/_next/static/media/lato-latin-700-normal.3fc09a61.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/900.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-900-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/lato-latin-ext-900-normal.20a2b415.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-900-normal.80e1d057.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-900-normal */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/lato-latin-900-normal.d884a71c.woff2) format('woff2'), url(/_next/static/media/lato-latin-900-normal.9de2bcbd.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/300-italic.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-300-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: url(/_next/static/media/lato-latin-ext-300-italic.c029c62a.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-300-italic.c834f4aa.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-300-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 300;
+  src: url(/_next/static/media/lato-latin-300-italic.804a1838.woff2) format('woff2'), url(/_next/static/media/lato-latin-300-italic.2b5e2c97.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/400-italic.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-400-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/lato-latin-ext-400-italic.29888cba.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-400-italic.9e204e51.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-400-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url(/_next/static/media/lato-latin-400-italic.3d031459.woff2) format('woff2'), url(/_next/static/media/lato-latin-400-italic.4b635213.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/700-italic.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-700-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(/_next/static/media/lato-latin-ext-700-italic.594cae63.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-700-italic.f3056145.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-700-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(/_next/static/media/lato-latin-700-italic.495c95e9.woff2) format('woff2'), url(/_next/static/media/lato-latin-700-italic.022c4bf8.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/lato/900-italic.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+/* lato-latin-ext-900-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/lato-latin-ext-900-italic.8d05bf92.woff2) format('woff2'), url(/_next/static/media/lato-latin-ext-900-italic.fa8f9c38.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* lato-latin-900-italic */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/lato-latin-900-italic.58c81a9c.woff2) format('woff2'), url(/_next/static/media/lato-latin-900-italic.f0bbb465.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./node_modules/@fontsource/montserrat/900.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+/* montserrat-cyrillic-ext-900-normal */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/montserrat-cyrillic-ext-900-normal.c11d2ea5.woff2) format('woff2'), url(/_next/static/media/montserrat-cyrillic-ext-900-normal.751a995b.woff) format('woff');
+  unicode-range: U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;
+}
+
+/* montserrat-cyrillic-900-normal */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/montserrat-cyrillic-900-normal.3b16be05.woff2) format('woff2'), url(/_next/static/media/montserrat-cyrillic-900-normal.6aad8999.woff) format('woff');
+  unicode-range: U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;
+}
+
+/* montserrat-vietnamese-900-normal */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/montserrat-vietnamese-900-normal.4aaf306b.woff2) format('woff2'), url(/_next/static/media/montserrat-vietnamese-900-normal.c0f2a0d7.woff) format('woff');
+  unicode-range: U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;
+}
+
+/* montserrat-latin-ext-900-normal */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/montserrat-latin-ext-900-normal.dd9eda68.woff2) format('woff2'), url(/_next/static/media/montserrat-latin-ext-900-normal.9b3af165.woff) format('woff');
+  unicode-range: U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;
+}
+
+/* montserrat-latin-900-normal */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(/_next/static/media/montserrat-latin-900-normal.71ceac85.woff2) format('woff2'), url(/_next/static/media/montserrat-latin-900-normal.3a3d4589.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./styles/clear.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************/
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+fieldset,
+form,
+label,
+legend,
+caption,
+tfoot,
+thead,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+body {
+  line-height: 1;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  outline: none;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cccccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+input,
+select {
+  vertical-align: middle;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  transition: opacity 0.3s ease;
+}
+
+input:focus::placeholder,
+textarea:focus::placeholder {
+  opacity: 0 !important;
+  transition: opacity 0.3s ease;
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./styles/sm-clean.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+.sm-clean {
+  background: #eeeeee;
+  border-radius: 5px;
+}
+.sm-clean a,
+.sm-clean a:hover,
+.sm-clean a:focus,
+.sm-clean a:active {
+  padding: 13px 20px;
+  /* make room for the toggle button (sub indicator) */
+  padding-right: 58px;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 17px;
+  text-decoration: none;
+}
+.sm-clean a.current {
+  color: #d23600;
+}
+.sm-clean a.disabled {
+  color: #bbbbbb;
+}
+.sm-clean a span.sub-arrow {
+  position: absolute;
+  top: 50%;
+  margin-top: -12px;
+  left: auto;
+  right: 4px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+  font: bold 18px/34px monospace !important;
+  text-align: center;
+  text-shadow: none;
+  border-radius: 5px;
+}
+.sm-clean a.highlighted span.sub-arrow:before {
+  display: block;
+  content: "-";
+}
+.sm-clean > li:first-child > a,
+.sm-clean > li:first-child > :not(ul) a {
+  border-radius: 5px 5px 0 0;
+}
+.sm-clean > li:last-child > a,
+.sm-clean > li:last-child > *:not(ul) a,
+.sm-clean > li:last-child > ul,
+.sm-clean > li:last-child > ul > li:last-child > a,
+.sm-clean > li:last-child > ul > li:last-child > *:not(ul) a,
+.sm-clean > li:last-child > ul > li:last-child > ul,
+.sm-clean > li:last-child > ul > li:last-child > ul > li:last-child > a,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > *:not(ul)
+  a,
+.sm-clean > li:last-child > ul > li:last-child > ul > li:last-child > ul,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > a,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > *:not(ul)
+  a,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > a,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > *:not(ul)
+  a,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul {
+  border-radius: 0 0 5px 5px;
+}
+.sm-clean > li:last-child > a.highlighted,
+.sm-clean > li:last-child > *:not(ul) a.highlighted,
+.sm-clean > li:last-child > ul > li:last-child > a.highlighted,
+.sm-clean > li:last-child > ul > li:last-child > *:not(ul) a.highlighted,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > a.highlighted,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > *:not(ul)
+  a.highlighted,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > a.highlighted,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > *:not(ul)
+  a.highlighted,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > a.highlighted,
+.sm-clean
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > ul
+  > li:last-child
+  > *:not(ul)
+  a.highlighted {
+  border-radius: 0;
+}
+.sm-clean > li:first-child {
+  border-top: 0;
+}
+.sm-clean ul a,
+.sm-clean ul a:hover,
+.sm-clean ul a:focus,
+.sm-clean ul a:active {
+  font-size: 16px;
+  border-left: 8px solid transparent;
+}
+.sm-clean ul ul a,
+.sm-clean ul ul a:hover,
+.sm-clean ul ul a:focus,
+.sm-clean ul ul a:active {
+  border-left: 16px solid transparent;
+}
+.sm-clean ul ul ul a,
+.sm-clean ul ul ul a:hover,
+.sm-clean ul ul ul a:focus,
+.sm-clean ul ul ul a:active {
+  border-left: 24px solid transparent;
+}
+.sm-clean ul ul ul ul a,
+.sm-clean ul ul ul ul a:hover,
+.sm-clean ul ul ul ul a:focus,
+.sm-clean ul ul ul ul a:active {
+  border-left: 32px solid transparent;
+}
+.sm-clean ul ul ul ul ul a,
+.sm-clean ul ul ul ul ul a:hover,
+.sm-clean ul ul ul ul ul a:focus,
+.sm-clean ul ul ul ul ul a:active {
+  border-left: 40px solid transparent;
+}
+
+/* Mobile first layout SmartMenus Core CSS (it's not recommended editing these rules)
+   You need this once per page no matter how many menu trees or different themes you use.
+-------------------------------------------------------------------------------------------*/
+
+.sm,
+.sm ul,
+.sm li {
+  display: table;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  line-height: normal;
+  direction: ltr;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.sm-rtl,
+.sm-rtl ul,
+.sm-rtl li {
+  direction: rtl;
+  text-align: right;
+}
+.sm > li > h1,
+.sm > li > h2,
+.sm > li > h3,
+.sm > li > h4,
+.sm > li > h5,
+.sm > li > h6 {
+  margin: 0;
+  padding: 0;
+}
+.sm ul {
+  display: none;
+}
+.sm li,
+.sm a {
+  position: relative;
+}
+.sm a {
+  display: block;
+}
+.sm a.disabled {
+  cursor: not-allowed;
+}
+.sm:after {
+  content: "\00a0";
+  display: block;
+  height: 0;
+  font: 0px/0 serif;
+  clear: both;
+  visibility: hidden;
+  overflow: hidden;
+}
+.sm,
+.sm *,
+.sm *:before,
+.sm *:after {
+  box-sizing: border-box;
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./styles/comman.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
+.block {
+  display: block;
+}
+.hidden {
+  display: none;
+}
+.clear {
+  clear: both;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.line-height {
+  line-height: 0;
+}
+.clear-right {
+  clear: right;
+}
+.clear-left {
+  clear: left;
+}
+.center-relative {
+  margin-left: auto;
+  margin-right: auto;
+}
+.center-absolute {
+  left: 50%;
+}
+.center-text {
+  text-align: center !important;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
+.relative {
+  position: relative;
+}
+.aligncenter {
+  display: block;
+  margin: 5px auto 5px auto;
+}
+.margin-0 {
+  margin: 0 !important;
+  line-height: 0;
+}
+.top-0 {
+  margin-top: 0 !important;
+}
+.top-5 {
+  margin-top: 5px !important;
+}
+.top-10 {
+  margin-top: 10px;
+}
+.top-15 {
+  margin-top: 15px;
+}
+.top-20 {
+  margin-top: 20px;
+}
+.top-25 {
+  margin-top: 25px;
+}
+.top-30 {
+  margin-top: 30px;
+}
+.top-50 {
+  margin-top: 50px;
+}
+.top-60 {
+  margin-top: 60px;
+}
+.top-70 {
+  margin-top: 70px;
+}
+.top-75 {
+  margin-top: 75px;
+}
+.top-80 {
+  margin-top: 80px;
+}
+.top-100 {
+  margin-top: 100px;
+}
+.top-105 {
+  margin-top: 105px;
+}
+.top-120 {
+  margin-top: 120px;
+}
+.top-150 {
+  margin-top: 150px;
+}
+.top-200 {
+  margin-top: 200px;
+}
+.top-negative-30 {
+  margin-top: -30px;
+}
+.left-35 {
+  margin-left: 35px;
+}
+.right-35 {
+  margin-right: 35px;
+}
+.bottom-0 {
+  margin-bottom: 0 !important;
+}
+.bottom-10 {
+  margin-bottom: 10px !important;
+}
+.bottom-20 {
+  margin-bottom: 20px !important;
+}
+.bottom-25 {
+  margin-bottom: 25px !important;
+}
+.bottom-30 {
+  margin-bottom: 30px !important;
+}
+.bottom-50 {
+  margin-bottom: 50px !important;
+}
+.bottom-100 {
+  margin-bottom: 100px !important;
+}
+.bottom-150 {
+  margin-bottom: 150px !important;
+}
+.bottom-200 {
+  margin-bottom: 200px !important;
+}
+blockquote {
+  font-weight: 300;
+  font-style: italic;
+  border-left: 10px solid #fffaa3;
+  padding-left: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 24px;
+  line-height: 35px;
+  max-width: 285px;
+  margin-left: auto;
+  margin-right: auto;
+}
+blockquote cite {
+  margin-top: 20px;
+  display: block;
+  font-weight: 400;
+}
+iframe {
+  width: 100%;
+}
+a.button {
+  display: inline-block;
+  color: #000000;
+  border: 1px solid #000000;
+  text-align: center;
+  padding-bottom: 15px;
+  padding-top: 12px;
+  padding-left: 50px;
+  padding-right: 45px;
+  cursor: pointer;
+  vertical-align: middle;
+  text-decoration: none;
+  font-size: 11px;
+  transition: all 0.2s linear;
+  letter-spacing: 5px;
+  line-height: 22px;
+  margin-bottom: 17px;
+  text-transform: uppercase;
+}
+
+a.button:active {
+  position: relative;
+  top: 1px;
+}
+
+a.button:hover {
+  color: white;
+  background-color: #000000;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 20px 0;
+}
+h1 {
+  font-size: 38px;
+  line-height: 38px;
+}
+h2 {
+  font-size: 34px;
+  line-height: 34px;
+}
+h3 {
+  font-size: 32px;
+  line-height: 32px;
+}
+h4 {
+  font-size: 30px;
+}
+h5 {
+  font-size: 28px;
+}
+h6 {
+  font-size: 26px;
+}
+em {
+  font-style: italic;
+}
+ol {
+  list-style-type: decimal;
+}
+pre {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  vertical-align: middle;
+}
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+.single-content ol {
+  display: block;
+  list-style-type: decimal;
+  margin: 0 0 14px 17px;
+}
+.single-content ul {
+  display: block;
+  list-style-type: disc;
+  margin: 0 0 14px 17px;
+}
+
+.one,
+.one_half,
+.one_third,
+.two_third,
+.three_fourth,
+.one_fourth {
+  margin-right: 14%;
+  float: left;
+  position: relative;
+  margin-bottom: 30px;
+}
+.last {
+  margin-right: 0 !important;
+  clear: right;
+}
+.one {
+  float: none;
+  display: block;
+  clear: both;
+  margin-right: 0;
+}
+.one_half {
+  width: 43%;
+}
+.one_third {
+  width: 24%;
+}
+.two_third {
+  width: 62%;
+}
+.one_fourth {
+  width: 14.5%;
+}
+.three_fourth {
+  width: 71.5%;
+}
+
+.one_half.margin-0 {
+  width: 50%;
+}
+.one_third.margin-0 {
+  width: 33.333333333%;
+}
+.two_third.margin-0 {
+  width: 66.666666666%;
+}
+.one_fourth.margin-0 {
+  width: 25%;
+}
+.three_fourth.margin-0 {
+  width: 75%;
+}
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  transition-duration: 0s;
+}
+
+div.pp_default .pp_loaderIcon {
+  display: none !important;
+}
+
+div.pp_default a.pp_arrow_previous {
+  background-image: url(/_next/static/media/nav_left.da9a5a4c.png);
+  background-size: 20px 20px;
+  width: 20px;
+  height: 20px;
+  margin-top: 5px;
+  font-size: 0;
+  line-height: 0;
+  text-indent: -99999999px;
+  transition: transform 0.3s ease;
+}
+
+div.pp_default a.pp_arrow_next {
+  background-image: url(/_next/static/media/nav_right.1b388701.png);
+  background-size: 20px 20px;
+  width: 20px;
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 10px;
+  font-size: 0;
+  line-height: 0;
+  text-indent: -99999999px;
+  transition: transform 0.3s ease;
+}
+
+div.pp_default a.pp_arrow_previous:hover {
+  transform: translateX(-5px);
+}
+
+div.pp_default a.pp_arrow_next:hover {
+  transform: translateX(5px);
+}
+
+div.pp_default .pp_close {
+  background-image: url(/_next/static/media/close.d49433d7.png);
+  background-size: 30px 30px;
+  margin-top: 5px;
+  text-indent: -99999999px;
+  font-size: 0;
+  line-height: 0;
+}
+
+div.pp_default .pp_nav .currentTextHolder {
+  padding: 0 0 0 20px;
+  color: #fff;
+}
+
+div.pp_default .pp_content_container .pp_details {
+  margin-top: 30px !important;
+  z-index: 3;
+}
+
+div.pp_default .pp_description {
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  line-height: 30px;
+  position: absolute;
+  top: -30px;
+  margin: 0;
+  color: #fff;
+  font-weight: 400;
+}
+
+.justified-gallery > a > .caption,
+.justified-gallery > div > .caption {
+  background-color: #f4f4f1;
+  color: #000;
+  font-size: 12px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+  padding-left: 20px;
+}
+
+.justified-gallery > a > .caption.caption-visible,
+.justified-gallery > div > .caption.caption-visible {
+  filter: "alpha(opacity=100)";
+  opacity: 1;
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./styles/globals.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************/
+/*------------------------------------------------------------------
+
+version 1.1
+
+[Table of contents]
+1. Global CSS
+    1.1 Global Header Logo/Menu CSS	
+2. Blog Page (Home) CSS
+3. General Page CSS
+4. About Page CSS
+5. Portfolio Page CSS
+6. Portfolio Single Post CSS
+7. Single Post CSS
+8. Full Width Template CSS
+9. Contact Page CSS
+10. Footer CSS
+11. Responsive CSS
+-------------------------------------------------------------------*/
+
+/* ===================================
+    1. Global CSS
+====================================== */
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #444;
+  background-color: #f4f4f1;
+  letter-spacing: 0.5px;
+}
+
+body a {
+  text-decoration: none;
+  color: #000;
+  transition: color 0.2s linear;
+}
+
+body a:hover {
+  color: #6a6a6a;
+}
+
+#content p {
+  margin-bottom: 16px;
+}
+
+.site-wrapper ::selection {
+  background-color: #fffaa3;
+}
+
+.site-wrapper ::-moz-selection {
+  background-color: #fffaa3;
+}
+
+.doc-loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  background-color: #fff;
+}
+
+.animate {
+  opacity: 0;
+  transition: 0.3s ease-in;
+  transform: translate(0px, 70px);
+}
+
+.animate.show-it {
+  opacity: 1;
+  transform: translate(0px, 0px);
+}
+
+.underline {
+  position: relative;
+  display: inline-block;
+}
+
+.underline:after {
+  content: "";
+  display: block;
+  width: 106%;
+  height: 10px;
+  background-color: #fffaa3;
+  position: absolute;
+  left: -3%;
+  bottom: 6px;
+  z-index: -1;
+}
+
+.slick-slider.image-slider {
+  margin-bottom: 50px;
+}
+
+.slick-dots li button:before {
+  background-color: #000;
+  border-radius: 0;
+}
+
+.slick-slide img {
+  width: 100% !important;
+}
+
+.content-1170 {
+  width: 1170px;
+}
+
+.content-970 {
+  width: 970px;
+}
+
+.content-830 {
+  width: 830px;
+}
+
+.content-570 {
+  width: 570px;
+}
+
+.content-1170 img,
+.content-970 img,
+.content-830 img,
+.content-570 img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+/* ===================================
+    1.1 Global Header Logo/Menu CSS
+====================================== */
+
+.header-holder {
+  margin: 80px auto 30px auto;
+  transition: margin-top 0.3s ease;
+}
+
+.header-holder.down {
+  margin-top: 150px;
+}
+
+.header-logo {
+  line-height: 0;
+  font-size: 0;
+}
+
+.header-logo img {
+  width: 80px;
+  height: 80px;
+}
+
+.toggle-holder {
+  right: 0;
+  z-index: 1;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#toggle:hover {
+  cursor: pointer;
+}
+
+#toggle div {
+  height: 3px;
+  margin-bottom: 6px;
+  background-color: #000000;
+  width: 22px;
+}
+
+#toggle .second-menu-line {
+  transition: transform 0.3s ease;
+  transform: translate3d(10px, 0, 0);
+}
+
+#toggle:hover .second-menu-line {
+  transform: translate3d(0, 0, 0);
+}
+
+.menu-wraper {
+  display: block;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  overflow: auto;
+  /* visibility: hidden; */
+  /* opacity: 0; */
+  transition: visibility 0s linear 0.5s, opacity 0.7s ease;
+  cursor: url(/_next/static/media/close.d49433d7.png), auto;
+}
+
+/* .menu-wraper.show {
+  visibility: visible;
+  opacity: 1;
+  transition-delay: 0s;
+} */
+
+/* .menu-wraper.center-relative::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0 !important;
+} */
+
+.menu-holder {
+  color: #fff;
+  position: relative;
+  text-align: center;
+  width: 1170px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  /* opacity: 0; */
+  margin-top: 70px;
+  transition: opacity 0.7s ease, margin-top 0.7s ease;
+}
+
+.menu-holder.show {
+  opacity: 1;
+  margin-top: 70px;
+  transition-delay: 0.3s;
+}
+
+#header-main-menu {
+  display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.main-menu {
+  float: none;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 350px;
+  width: 100%;
+  position: relative;
+  z-index: 9999;
+}
+
+/* .main-menu ul { */
+/* width: 12em;  */
+/* fixed width only please - you can use the "subMenusMinWidth"/"subMenusMaxWidth" script options to override this if you like */
+/* } */
+
+.main-menu.sm-clean {
+  background-color: transparent;
+  display: inline-block;
+}
+
+.sm-clean a {
+  position: relative;
+}
+
+.sm-clean a,
+.sm-clean a:hover,
+.sm-clean a:focus,
+.sm-clean a:active {
+  color: #ffffff;
+  padding: 5px 0;
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: 700;
+}
+
+.sm-clean a.current,
+.sm-clean a:hover,
+.main-menu.sm-clean .sub-menu li a.current,
+.main-menu.sm-clean .sub-menu li a:hover {
+  color: #fffaa3;
+}
+
+.sm-clean a span.sub-arrow {
+  color: #fffaa3;
+  font-size: 18px !important;
+  right: -50px;
+  padding: 5px;
+  width: 35px;
+  height: 30px;
+}
+
+.sm-clean ul a span.sub-arrow {
+  margin-top: -18px;
+}
+
+.sm-clean a span.sub-arrow:before {
+  display: block;
+  content: "\f078";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sm-clean a.highlighted span.sub-arrow:before {
+  display: block;
+  content: "\f077";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sm li {
+  min-width: 260px;
+}
+
+.main-menu.sm-clean .sub-menu li a {
+  color: #989898;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 10px 0;
+  border: none !important;
+}
+
+/* ===================================
+    2. Blog Page (Home) CSS
+====================================== */
+
+.blog-holder {
+  margin-top: 90px;
+}
+
+.blog-item-holder {
+  margin-top: -50px;
+  text-align: center;
+}
+
+.blog .blog-item-holder:first-of-type {
+  margin-top: 0;
+}
+
+.blog-item-holder.sticky .entry-holder {
+  border: 10px solid #000;
+}
+
+.blog-item-holder .post-thumbnail {
+  line-height: 0;
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 720px;
+  overflow: hidden;
+}
+
+.blog-item-holder .post-thumbnail img {
+  transition: transform 0.3s ease;
+  display: block;
+}
+
+.blog-item-holder .post-thumbnail img:hover {
+  transform: scale(1.05);
+}
+
+.blog-item-holder.has-post-thumbnail:nth-child(2n) {
+  text-align: left;
+}
+
+.blog-item-holder.has-post-thumbnail .entry-holder {
+  width: 350px;
+  text-align: left;
+  vertical-align: middle;
+  position: relative;
+  z-index: 1;
+}
+
+.blog-item-holder.has-post-thumbnail:nth-child(2n + 1) .entry-holder {
+  margin-left: -95px;
+}
+
+.blog-item-holder.has-post-thumbnail:nth-child(2n + 1) .read-more-arrow {
+  left: 0;
+  margin-left: 90px;
+}
+
+.blog-item-holder.has-post-thumbnail:nth-child(2n) .post-thumbnail {
+  transform: translateX(100%);
+}
+
+.blog-item-holder.has-post-thumbnail:nth-child(2n) .entry-holder {
+  transform: translateX(-450px);
+  text-align: right;
+  margin-right: -95px;
+}
+
+.blog-item-holder.has-post-thumbnail:nth-child(2n) .read-more-arrow {
+  left: auto;
+  right: 0;
+  margin-right: 90px;
+  margin-left: auto;
+}
+
+.blog-item-holder .entry-holder {
+  display: inline-block;
+  background-color: #fff;
+  padding: 60px 95px 75px;
+  max-width: 795px;
+}
+
+.entry-info {
+  font-size: 11px;
+  letter-spacing: 5px;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
+.entry-info ul {
+  padding: 0;
+  margin: 0;
+}
+
+.blog-item-holder .entry-info .cat-links a {
+  position: relative;
+  display: inline-block;
+  z-index: 0;
+}
+
+.blog-item-holder .entry-info .cat-links a:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: #fffaa3;
+  position: absolute;
+  bottom: 6px;
+  left: -2px;
+  z-index: -1;
+  transition: bottom 0.3s ease;
+}
+
+.blog-item-holder .entry-info .cat-links a:hover:after {
+  bottom: 0;
+}
+
+.entry-info .cat-links li {
+  display: inline-block;
+}
+
+.entry-info .cat-links li:after {
+  content: ",";
+  padding-right: 5px;
+}
+
+.entry-info .cat-links li:last-child:after {
+  display: none;
+}
+
+.blog-item-holder h2.entry-title {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 44px;
+  display: block;
+}
+
+.blog-item-holder .excerpt {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.read-more-arrow {
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  margin-left: -27px;
+  margin-bottom: 0 !important;
+}
+
+.read-more-arrow a {
+  color: #fff;
+  background-color: #000;
+  width: 54px;
+  height: 54px;
+  display: block;
+  text-align: center;
+}
+
+.read-more-arrow a:hover {
+  color: #fffaa3;
+}
+
+.read-more-arrow a .article-card-icon {
+  transition: transform 0.2s ease;
+  vertical-align: -15px;
+}
+
+.read-more-arrow a:hover .article-card-icon {
+  transform: scale(1.2);
+}
+
+.entry-holder.position-left .read-more-arrow {
+  right: 90px;
+  left: auto;
+  margin-left: 0;
+}
+
+.entry-holder.position-right .read-more-arrow {
+  left: 90px;
+  margin-left: 0;
+}
+
+.read-more-arrow img {
+  width: 50px;
+  height: 20px;
+}
+
+.more-posts-index-holder {
+  margin: 100px 0 50px;
+  min-height: 1px;
+}
+
+.blog .more-posts,
+.blog .no-more-posts {
+  font-family: "Lato", sans-serif;
+  color: #fff;
+  background-color: #000;
+  padding: 17px 6px 17px 14px;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 28px;
+  min-width: 190px;
+  border: none;
+  letter-spacing: 8px;
+  transition: opacity 0.3s ease;
+}
+
+.blog .more-posts:hover {
+  opacity: 0.8 !important;
+}
+
+.blog .more-posts {
+  cursor: pointer;
+}
+
+/* ===================================
+    3. General Page CSS
+====================================== */
+
+.page .site-content {
+  margin-bottom: 70px;
+}
+
+.page-header-image {
+  line-height: 0;
+}
+
+.page-header-image + .page-content-wrapper.content-1170 {
+  margin-top: -100px;
+  width: 970px;
+}
+
+.page-content-wrapper {
+  position: relative;
+}
+
+.page .page-content {
+  background-color: #fff;
+  padding: 75px;
+}
+
+.page h1.entry-title,
+.blog h1.entry-title {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 400;
+  color: #000;
+  margin: 0 auto;
+  padding-top: 0;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+.blog h1.entry-title {
+  padding-bottom: 0;
+}
+
+/* ===================================
+    4. About Page CSS
+====================================== */
+
+.quote {
+  font-weight: 300;
+  font-style: italic;
+  max-width: 530px;
+  margin-top: 65px;
+  font-size: 24px;
+  line-height: 35px;
+  color: #676767;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quote:before {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  content: "\201C";
+  font-size: 180px;
+  line-height: 20px;
+  color: #e5e5e5;
+  text-align: center;
+  display: block;
+  font-style: normal;
+}
+
+.quote-author {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  font-style: normal;
+  position: relative;
+  color: #000;
+  margin-top: 25px;
+  display: table;
+  z-index: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quote-author:after {
+  content: "";
+  display: block;
+  width: 106%;
+  height: 5px;
+  background-color: #fffaa3;
+  position: absolute;
+  left: -3%;
+  bottom: 5px;
+  z-index: -1;
+}
+
+.timeline {
+  padding: 50px 120px;
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.timeline strong {
+  font-weight: 900;
+}
+
+.team-holder .member {
+  position: relative;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.team-holder .member img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.team-holder .member.one_half {
+  width: 50%;
+}
+
+.team-holder .member.one_third {
+  width: calc(100% / 3);
+}
+
+.team-holder .member.one_fourth {
+  width: calc(100% / 4);
+}
+
+.team-holder .member-info {
+  opacity: 0;
+  transition: 0.4s ease;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+  background-color: #000000;
+  color: #fff;
+}
+
+.team-holder .member-info:hover {
+  opacity: 1;
+}
+
+.team-holder .member-name {
+  margin-top: 25%;
+  margin-bottom: 25px;
+  font-weight: 700;
+}
+
+.team-holder .member-social-holder {
+  font-size: 16px;
+  line-height: 20px;
+  padding: 0 40px;
+}
+
+.team-holder .social {
+  display: inline-block;
+  font-size: 25px;
+  margin: 0 5px;
+}
+
+.team-holder .social a {
+  color: #fff;
+}
+
+.team-holder .social a:hover {
+  color: #dfdad4;
+}
+
+/* ===================================
+    5. Portfolio Page CSS
+====================================== */
+
+.portfolio-category {
+  margin-bottom: 25px;
+}
+
+.portfolio-category .filter-btn {
+  position: relative;
+  display: inline-block;
+  margin-right: 15px;
+  cursor: pointer;
+}
+.portfolio-category .filter-btn.active {
+  color: #000;
+}
+
+.portfolio-category .filter-btn:after {
+  content: "";
+  display: block;
+  width: 106%;
+  height: 5px;
+  background-color: #fffaa3;
+  position: absolute;
+  left: -3%;
+  bottom: 6px;
+  z-index: -1;
+  transition: bottom 0.3s ease;
+}
+
+.portfolio-category .filter-btn:hover:after {
+  bottom: 0;
+}
+
+.grid {
+  width: 1170px;
+  width: calc(1170px + 3%);
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  max-width: 100%;
+}
+
+/* .grid-item,
+.grid-sizer {
+  width: 50%;
+} */
+
+.grid-item {
+  /* float: left; */
+  /* font-size: 0;
+  line-height: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-bottom: 50px; */
+}
+
+.portfolio-thumbnail {
+  overflow: hidden;
+}
+
+.portfolio-thumbnail img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  max-height: none;
+  transition: transform 0.3s ease;
+}
+
+.portfolio-thumbnail img:hover {
+  transform: scale(1.05);
+}
+
+.grid-item .entry-holder {
+  text-align: center;
+  background-color: #fff;
+  padding: 50px 20px;
+}
+
+.more-posts-portfolio-holder {
+  margin: 100px 0 50px;
+  min-height: 1px;
+}
+
+.portfolio .more-posts-portfolio,
+.portfolio .no-more-posts-portfolio {
+  font-family: "Lato", sans-serif;
+  color: #fff;
+  background-color: #000;
+  padding: 17px 6px 17px 14px;
+  display: inline-block;
+  font-size: 11px;
+  min-width: 190px;
+  letter-spacing: 8px;
+  border: none;
+  transition: opacity 0.3s ease;
+  line-height: 28px;
+}
+
+.portfolio .more-posts-portfolio:hover {
+  opacity: 0.8 !important;
+}
+
+.portfolio .more-posts-portfolio {
+  cursor: pointer;
+}
+
+/* ===================================
+    6. Portfolio Single Post CSS
+====================================== */
+
+.single-portfolio .content-wrapper {
+  padding: 50px 0;
+  width: 870px;
+  font-size: 16px;
+  line-height: 25px;
+  margin: 0 auto;
+}
+
+.single.single-portfolio h1 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: left;
+  padding-top: 0;
+  padding-bottom: 6px;
+}
+
+.single-portfolio .top-content {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.portfolio-item-info span {
+  line-height: 35px;
+  color: #adadad;
+}
+
+.single-portfolio .nav-links {
+  padding-top: 70px;
+}
+
+/* ===================================
+    7. Single Post CSS
+====================================== */
+
+.single h1.entry-title {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  color: #000;
+  font-size: 60px;
+  line-height: 60px;
+  margin-bottom: 10px;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.single .entry-info {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000;
+  padding-bottom: 30px;
+}
+
+.single .entry-info div,
+.single .entry-info .cat-links ul {
+  display: inline-block;
+}
+
+.single .entry-info div:after {
+  content: "/";
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.single .entry-info div:last-of-type:after {
+  display: none;
+}
+
+.single-post-featured-image {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.single-post .entry-content {
+  background-color: #fff;
+  padding: 85px 0;
+  font-size: 16px;
+  line-height: 28px;
+  color: #444;
+}
+
+.big-text {
+  font-size: 24px;
+  line-height: 28px;
+  color: #000;
+  font-weight: 900;
+  border-bottom: 5px solid #fffaa3;
+  display: inline;
+}
+
+.big-text:after {
+  content: "";
+  display: block;
+  margin-bottom: 17px;
+}
+
+.single .nav-links {
+  padding-bottom: 70px;
+  position: relative;
+  background-color: #fff;
+}
+
+.single .nav-previous {
+  display: inline-block;
+  text-align: right;
+  float: left;
+  width: 46%;
+}
+
+.single .nav-next {
+  display: inline-block;
+  float: right;
+  width: 46%;
+  text-align: left;
+}
+
+.nav-links p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+}
+
+.nav-previous a,
+.nav-next a,
+.nav-previous a p,
+.nav-next a p {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
+.nav-previous a p,
+.nav-next a p {
+  margin-bottom: 0 !important;
+}
+
+.single .nav-previous a {
+  float: right;
+}
+
+.nav-previous .icon,
+.nav-next .icon {
+  transition: transform 0.3s ease;
+}
+.nav-previous a:hover .icon {
+  transform: translateX(-6px);
+}
+.nav-next a:hover .icon {
+  transform: translateX(6px);
+}
+
+.single .nav-next a {
+  float: left;
+}
+
+.nav-links .cat-links ul {
+  margin: 10px 0 0 0;
+  padding: 0;
+  list-style: none;
+  line-height: 22px;
+}
+
+.nav-links .cat-links ul li {
+  display: inline-block;
+}
+
+.nav-links .cat-links a {
+  font-family: "Lato", sans-serif;
+  font-size: 11px;
+  line-height: 22px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  float: none;
+}
+
+.nav-links .cat-links li:after {
+  content: ",";
+  padding-right: 5px;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 22px;
+}
+
+.nav-links .cat-links li:last-child:after {
+  display: none;
+}
+
+/* ===================================
+  8. Full Width Template CSS
+====================================== */
+
+.page.page-template-park-full-width .page-content {
+  width: 1020px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ===================================
+    9. Contact Page CSS
+====================================== */
+
+.contact-form {
+  max-width: 100%;
+  width: 770px;
+  margin: 0 auto;
+  font-size: 22px;
+  color: #4b4b4b;
+}
+
+.contact-form p {
+  margin-bottom: 0 !important;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  border: 0;
+  border-bottom: 1px solid;
+  padding-bottom: 5px;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  width: 100%;
+  line-height: 25px;
+  color: #000;
+  font-weight: 400;
+  font-size: 15px;
+  margin-bottom: 35px;
+}
+
+.contact-form textarea {
+  height: 150px;
+}
+
+.contact-form input[type="text"]::-webkit-input-placeholder,
+.contact-form input[type="email"]::-webkit-input-placeholder,
+.contact-form textarea::-webkit-input-placeholder {
+  font-family: "Lato", sans-serif;
+  color: #000;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+}
+.contact-form input[type="text"]::-moz-placeholder,
+.contact-form input[type="email"]::-moz-placeholder,
+.contact-form textarea::-moz-placeholder {
+  font-family: "Lato", sans-serif;
+  color: #000;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  opacity: 1;
+}
+.contact-form input[type="text"]:-ms-input-placeholder,
+.contact-form input[type="email"]:-ms-input-placeholder,
+.contact-form textarea:-ms-input-placeholder {
+  font-family: "Lato", sans-serif;
+  color: #000;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+}
+.contact-form input[type="text"]:-moz-placeholder,
+.contact-form input[type="email"]:-moz-placeholder,
+.contact-form textarea:-moz-placeholder {
+  font-family: "Lato", sans-serif;
+  color: #000;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  opacity: 1;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"] {
+  padding-bottom: 5px;
+}
+
+.contact-form input[name="your-name"] {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.contact-submit-holder {
+  position: relative;
+  margin-bottom: 25px;
+}
+
+.contact-form input[type="submit"] {
+  display: inline-block;
+  color: #000;
+  border: 1px solid #000;
+  text-align: center;
+  padding: 20px 40px 20px 45px;
+  cursor: pointer;
+  margin-bottom: 25px;
+  vertical-align: middle;
+  text-decoration: none;
+  background: transparent;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.contact-form input[type="submit"]:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+/* ===================================
+    10. Footer CSS
+====================================== */
+
+footer ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.footer {
+  font-size: 16px;
+  line-height: 36px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  clear: both;
+  color: #fff;
+  text-align: center;
+  background: #000;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer-text:before {
+  content: "";
+  display: block;
+  height: 77px;
+  width: 2px;
+  background: #1a1a1a;
+  position: absolute;
+  left: 50%;
+  margin-left: -2px;
+  top: -95px;
+}
+
+.footer-text {
+  position: relative;
+  margin-top: 80px;
+  padding-bottom: 50px;
+}
+
+ul.copyright-holder {
+  font-size: 14px;
+}
+
+ul.copyright-holder:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+li.copyright-footer {
+  float: left;
+  text-align: left;
+  width: 50%;
+}
+
+li.social-footer {
+  float: right;
+  text-align: right;
+  width: 50%;
+}
+
+li.social-footer a {
+  padding-left: 20px;
+}
+
+li.social-footer a:first-child {
+  padding-left: 0;
+}
+
+/* ===================================
+    11. Responsive CSS
+====================================== */
+
+@media screen and (max-width: 1600px) {
+  .content-1170 {
+    max-width: 95%;
+  }
+
+  .page.page-template-park-full-width .page-content {
+    max-width: 85%;
+  }
+}
+
+@media screen and (max-width: 1450px) {
+  .one_half,
+  .one_third,
+  .two_third,
+  .three_fourth,
+  .one_fourth {
+    margin-right: 8%;
+    float: left;
+    position: relative;
+    margin-bottom: 37px;
+  }
+
+  .one_half {
+    width: 46%;
+  }
+  .one_third {
+    width: 28%;
+  }
+  .two_third {
+    width: 64%;
+  }
+  .one_fourth {
+    width: 19%;
+  }
+  .three_fourth {
+    width: 73%;
+  }
+}
+
+@media screen and (max-width: 1360px) {
+  .team-holder .member-info {
+    display: block !important;
+    opacity: 1 !important;
+    position: relative;
+    min-height: 180px;
+    padding: 30px 0;
+    margin-bottom: 30px;
+  }
+
+  .team-holder .member-name {
+    margin-top: 0;
+  }
+
+  .grid-item .entry-holder {
+    padding: 30px 20px;
+  }
+}
+
+@media screen and (max-width: 1220px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  blockquote {
+    font-size: 17px;
+    line-height: 28px;
+  }
+
+  blockquote:before {
+    line-height: 150px;
+    font-size: 150px;
+    position: relative;
+    top: 0;
+    left: 0;
+    text-align: center;
+    display: block;
+    margin-bottom: -60px;
+  }
+
+  .blog-item-holder {
+    margin-top: 0 !important;
+    margin-bottom: 50px;
+  }
+
+  .blog-item-holder .post-thumbnail {
+    max-width: 575px;
+  }
+
+  .blog-item-holder .entry-holder {
+    padding: 60px 60px 75px;
+  }
+
+  .page-header-image + .page-content-wrapper.content-1170 {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 1020px) {
+  .header-holder {
+    margin-top: 25px;
+  }
+
+  .page h1.entry-title,
+  .blog h1.entry-title {
+    font-size: 40px;
+    line-height: 45px;
+  }
+
+  .underline:after {
+    height: 6px;
+  }
+
+  .single h1.entry-title {
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 0;
+    max-width: 95%;
+  }
+
+  .single-post .entry-content {
+    padding: 40px 0;
+  }
+
+  .content-970,
+  .content-830 {
+    width: 95%;
+  }
+
+  .main-menu {
+    max-width: 100%;
+  }
+
+  .one_half,
+  .one_third,
+  .one_fourth,
+  .two_third,
+  .three_fourth {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .footer {
+    padding-bottom: 30px;
+  }
+
+  li.copyright-footer {
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+
+  li.social-footer {
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+
+  .blog-item-holder {
+    margin-bottom: 100px;
+    text-align: center !important;
+  }
+
+  .blog-item-holder .post-thumbnail {
+    display: inline-block;
+    max-width: 100%;
+    transform: none !important;
+  }
+
+  .blog-item-holder .post-thumbnail img {
+    margin: 0 auto;
+  }
+
+  .blog-item-holder.has-post-thumbnail .entry-holder {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block;
+    transform: none !important;
+    text-align: center !important;
+    margin-top: -90px;
+  }
+
+  .read-more-arrow {
+    left: 50% !important;
+    margin-left: -27px !important;
+    margin-right: auto !important;
+    right: auto !important;
+  }
+
+  .single-portfolio .content-wrapper {
+    max-width: 95%;
+  }
+
+  .team-holder .member.one_third {
+    width: 50%;
+    float: left;
+  }
+
+  .team-holder .member.one_half,
+  .team-holder .member.one_fourth {
+    width: 50%;
+    float: left;
+  }
+
+  .slick-slider.image-slider {
+    margin-bottom: 75px;
+  }
+
+  .quote {
+    margin-top: 110px;
+  }
+
+  .one_half.margin-0,
+  .one_half.margin-0 img,
+  .one_third.margin-0,
+  .one_third.margin-0 img,
+  .two_third.margin-0,
+  .two_third.margin-0 img,
+  .one_fourth.margin-0,
+  .one_fourth.margin-0 img,
+  .three_fourth.margin-0,
+  .three_fourth.margin-0 img {
+    width: 100%;
+  }
+
+  .single.single-portfolio h1,
+  .text-right {
+    text-align: center !important;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #header-main-menu {
+    margin-top: 0;
+  }
+
+  .page h1.entry-title br,
+  .blog h1.entry-title br {
+    display: none;
+  }
+
+  .page .page-content {
+    padding: 5%;
+  }
+
+  .single .nav-links:before {
+    display: none;
+  }
+
+  .single .nav-previous,
+  .single .nav-next {
+    display: block;
+    width: 95%;
+    text-align: center;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .single .nav-previous a,
+  .single .nav-next a {
+    float: none;
+  }
+
+  .single .nav-previous {
+    padding-bottom: 40px;
+  }
+
+  .timeline {
+    padding: 5%;
+  }
+
+  .grid {
+    width: 95%;
+  }
+
+  .grid-item,
+  .grid-sizer {
+    width: 100% !important;
+  }
+
+  .grid-item {
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    margin-bottom: 33px;
+  }
+
+  .single-portfolio .nav-previous,
+  .single-portfolio .nav-next {
+    display: inline-block;
+    padding-bottom: 0;
+    max-width: none;
+    margin: 0 15px;
+  }
+
+  .team-holder .member.one_third,
+  .team-holder .member.one_half,
+  .team-holder .member.one_fourth {
+    width: 100%;
+  }
+
+  .justified-gallery > a > .caption,
+  .justified-gallery > div > .caption {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .sm li {
+    min-width: 170px;
+  }
+
+  .sm-clean a span.sub-arrow {
+    font-size: 16px !important;
+  }
+
+  .sm-clean a,
+  .sm-clean a:hover,
+  .sm-clean a:focus,
+  .sm-clean a:active {
+    font-size: 22px;
+    line-height: 32px;
+  }
+
+  .content-570 {
+    max-width: 95%;
+  }
+
+  #toggle {
+    padding: 15px;
+  }
+
+  .blog-holder {
+    margin-top: 60px;
+  }
+
+  .blog-item-holder {
+    margin-bottom: 70px;
+  }
+
+  .blog-item-holder.has-post-thumbnail .entry-holder {
+    width: inherit;
+    margin-top: 0;
+    padding: 10% 5%;
+  }
+
+  .blog-item-holder h2.entry-title {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+  .single .entry-info div,
+  .single .entry-info .cat-links ul {
+    display: block;
+  }
+
+  .single .entry-info div:after {
+    display: none;
+  }
+
+  .single .nav-links {
+    padding-bottom: 30px;
+  }
+
+  .single-portfolio .nav-links {
+    padding-top: 30px;
+  }
+}
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./styles/our-styles.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************/
+.video-framer {
+  width: 100%;
+}
+
+.video-framer iframe {
+  aspect-ratio: 16 / 9;
+}
+img {
+  max-width: 100%;
+}
+
+/* Header */
+.sum-menu-li {
+  min-width: unset !important;
+}
+.sub-menu-toggler {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.sub-menu-toggler a {
+  min-width: 260px;
+  margin-left: 30px;
+}
+
+.sub-menu-toggler .expandable-icon {
+  font-size: 30px;
+  color: #acacac;
+  transition: transform 0.3s ease;
+  pointer-events: none;
+}
+.sub-menu {
+  overflow: hidden;
+}
+@media screen and (max-width: 630px) {
+  .sub-menu-toggler a {
+    min-width: 170px;
+    margin-left: 20px;
+  }
+  .sub-menu-toggler .expandable-icon {
+    font-size: 20px !important;
+  }
+}
+
+/* Portfolio */
+.image-lightbox {
+  cursor: pointer;
+  height: 100%;
+}
+
+/* Swiper Slider  */
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
+
+.slider {
+  padding-bottom: 60px !important;
+  /* margin-bottom: 50px; */
+}
+
+.slider .swiper-pagination .swiper-pagination-bullet {
+  width: 20px;
+  height: 20px;
+  border-radius: 0;
+  background-color: #000;
+}
+.slider
+  .swiper-pagination
+  .swiper-pagination-bullet:not(.swiper-pagination-bullet-active) {
+  opacity: 0.25;
+}
+
+.slider
+  .swiper-pagination
+  .swiper-pagination-bullet:hover:not(.swiper-pagination-bullet-active) {
+  opacity: 1;
+}
+
+.slider .swiper-pagination .swiper-pagination-bullet-active {
+  opacity: 0.75;
+}
+
+/* Mansoury */
+@media (min-width: 751px) {
+  .portfolio-mansoury-container {
+    margin-left: 24px;
+  }
+}
+.portfolio-masonry {
+  width: calc(100% + 24px);
+}
+/* Gallery (portfolio 3 */
+
+.our-img-gallery .coco-gallery-item {
+  position: relative;
+}
+
+.our-img-gallery img {
+  display: block;
+}
+
+.our-img-gallery .coco-gallery-item .caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: block;
+  padding: 5px;
+  /* width: 100%; */
+  background-color: #000;
+  margin: 0;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: sans-serif;
+  transition: opacity 300ms ease;
+  opacity: 0;
+}
+.our-img-gallery .coco-gallery-item:hover .caption {
+  opacity: 0.7;
+}
+
+/* Contact */
+.respond-message {
+  margin: 10px 0;
+  padding: 10px;
+  text-align: center;
+  background-color: #ddd;
+  color: #000;
+  font-size: 16px;
+}
+
+/* Loader */
+.loader-holder {
+  width: 100%;
+  height: calc(100vh - 150px);
+  padding-top: 80px;
+}
+.loader-holder .loader-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loader-holder .loader-box .loader {
+  width: 100px;
+  height: 100px;
+  border: 10px solid #000;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: loading-animation 1s linear infinite;
+}
+
+@keyframes loading-animation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
