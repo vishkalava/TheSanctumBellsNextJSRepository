@@ -6,6 +6,7 @@ phases:
     commands:
       - echo "Installing dependencies"
       - npm install
+      - apt install libatomic1
   prebuild:
     - npm install
   build:
